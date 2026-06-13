@@ -1,4 +1,4 @@
 add milk
 add flour
-add salt
+add sugar
 add flavour
